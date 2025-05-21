@@ -1,4 +1,4 @@
-# www.kips-college-admission.com
+
 <!DOCTYPE html>
 <html>
 <head>
