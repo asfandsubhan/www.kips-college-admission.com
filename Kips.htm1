@@ -1,32 +1,24 @@
-<DOCTYPE htm1>
-
-<htm1>
-
+<!DOCTYPE html>
+<html>
 <head>
-
-<title>kips college Gujranwala. </title>
-
+  <meta charset="UTF-8">
+  <title>KIPS College Gujranwala</title>
 </head>
-
 <body>
 
-<h1>Welocome to our site. </h1>
+  <h1>Welcome to our site.</h1>
+  <h2>The future of your child begins here.</h2>
+  <h1>Admissions are open now.</h1>
 
-<h2>Future of your child begins here. </h2>
+  <p>We are offering your child many programs. Now you can get admission in the following to secure your bright future:</p>
 
-<h1>Addmission are open now. </h1>
+  <p>Courses offered here:</p>
+  <p>FSc Pre-Medical, FSc Pre-Engineering, ICS (Physics), ICS (Stats), FA IT, ICOM and more.</p>
 
-<p>we are offering your child many Programs.Now you can get addmission in following for securing your bright future. </p>
+  <h1>Admissions</h1>
+  <p>Click here 👉
+    <a href="https://kipscolleges.com/intermediate-programs/">Admission for 1st and 2nd year</a>
+  </p>
 
-   <p>Courses offer here:</p>
-      <p>Fsc.pre.Medical,Fsc.pre.Engineering,
-        ICS(Physics),ICS(Stats),Fa.IT,ICOM and more.
-
-<h1>Addmissions </h1>
-
-<p>Click here👉
- 
-
-  <a href="https://kipscolleges.com/intermediate-programs/">Addmision for 1st and 2nd year</a>
-  </body>
-  </htm1>
+</body>
+</html>
