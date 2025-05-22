@@ -19,7 +19,7 @@
 
   <h1>Admissions</h1>
   <p>Click here 👉
-    <a href="https://kipscolleges.com/intermediate-programs/">Admission for 1st and 2nd year</a>
+    <a href="https://kipscolleges.com/intermediate-programs/">Admissions </a>
   </p>
 
 </body>
